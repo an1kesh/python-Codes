@@ -48,7 +48,4 @@ if __name__ == '__main__':
 #print (pos)
 
 
-'''
-print(pyautogui.size())
-pyautogui.moveTo(100, 100, duration = 0.2)
-'''
+
